@@ -1,6 +1,6 @@
 # TP Protocol SDK Java
 
-ThingsPanel Protocol SDK for Java，用于快速开发ThingsPanel插件的Java版本。
+ThingsPanel Protocol SDK for Java，用于快速开发ThingsPanel协议和服务插件的Java版本。
 
 ## 功能特性
 
